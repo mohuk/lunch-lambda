@@ -1,0 +1,13 @@
+{
+  "name": "cogs-lunch",
+  "description": "cogs-lunch",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::620022784436:role/cogs-lunch_lambda_function",
+  "environment": {
+		"USERNAME":"",
+    "PASSWORD":"",
+    "TOKEN": "",
+    "USER": ""
+	}
+}
